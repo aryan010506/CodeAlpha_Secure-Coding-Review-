@@ -28,7 +28,7 @@ This project demonstrates the implementation of a Network Intrusion Detection Sy
 
 ---
 output:
-
+![Image](https://github.com/user-attachments/assets/9f48bd43-1009-4d64-aea7-4719a0ed0aed)
 
 🔁 Response Mechanism
 You can respond by:
